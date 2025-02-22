@@ -1,7 +1,7 @@
 # mergesort
 Swift eğitimimin bir parçası olan Algoritma ve Veri Yapıları merge sort konusu icin bir örnek çözüm.
 
-### Adım Adım **Merge Sort** Aşamaları:
+### **Merge Sort** Aşamaları:
 
 Verilen dizi: **[16, 21, 11, 8, 12, 22]**
 
